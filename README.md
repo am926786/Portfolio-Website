@@ -4,8 +4,13 @@ This project is a dynamic portfolio website developed using Java technologies su
 Key features for the Portfolio Website:
 
 Interactive UI: HTML/CSS design for intuitive navigation.
+
 Database Integration: MySQL for efficient data management.
+
 Comprehensive Showcase: Displays achievements, projects, skills, and work experience.
+
 Responsive Design: Ensures compatibility across devices.
+
 Authentication: Secure access to portfolio content.
+
 Search Functionality: Quick data retrieval for recruiters.
